@@ -17,4 +17,4 @@ Simple smart contract code using solidity for beginner projects 💡
 11. Rank
 ```
 ### Copyright
-1. [Meguminz](https://www.instagram.com/wibuxploitmy) 
+1. [Meguminz](https://www.instagram.com/paiscapital) 

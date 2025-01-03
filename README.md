@@ -9,4 +9,4 @@
 - [x] References
 
 ## Copyright
-2. [Meguminz](https://www.instagram.com/paiscapital/)
+1. [Meguminz](https://www.instagram.com/paiscapital/)
